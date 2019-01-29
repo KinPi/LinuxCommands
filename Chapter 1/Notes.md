@@ -105,7 +105,8 @@ Again, we just delete the symbolic link pointing to the new version and create a
 3. Help offers documentation on built-in shell commands.
 
 4. In help's documentation, square brackets means optional. A vertical line means mutually 
-   exclusive.
+   exclusive. Parenthesis means you have to type it. (https://stackoverflow.com/questions/9725675/is-there-a-standard-format-for-command-line-shell-help-text)
+   (https://www3.rocketsoftware.com/rocketd3/support/documentation/mvb/32/refman/operations/syntax_notations.htm)
 
 5. apropos displays approximate commands
 
